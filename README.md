@@ -9,7 +9,7 @@
 
 - 🔭 My Project [![AI Chat Bot](ai-ezgif.com-video-to-gif-converter.gif)](https://ai-chat-websiteapp.netlify.app/)
 
-- 🌱 My Project [![Portfolio Website](portofolio-ezgif.com-video-to-gif-converter.gif)](https://franciswebsiteportfolio.netlify.app)
+- 🌱 My Project [![Portfolio Website](portfolio-ezgif.com-video-to-gif-converter.gif)](https://franciswebsiteportfolio.netlify.app)
 
 - 👯 My Project [![Henry's Fashion House](fashion-ezgif.com-video-to-gif-converter.gif)](https://henrysfashionhouse.netlify.app/)
 
