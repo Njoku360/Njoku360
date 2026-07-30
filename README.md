@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/@francisdev10" target="blank"><img src="https://img.shields.io/twitter/follow/@francisdev10?logo=twitter&style=for-the-badge" alt="@francisdev10" /></a> </p>
 
-- 🔭 My Project [AI Chat Bot](https://ai-chat-websiteapp.netlify.app/)
+- 🔭 My Project [![AI Chat Bot](ai-ezgif.com-video-to-gif-converter.gif)](https://ai-chat-websiteapp.netlify.app/)
 
-- 🌱 My Project **Portfolio Website**
+- 🌱 My Project [![Portfolio Website](portofolio-ezgif.com-video-to-gif-converter.gif)](https://franciswebsiteportfolio.netlify.app)
 
-- 👯 My Project [Henry's Fashion House](https://henrysfashionhouse.netlify.app/)
+- 👯 My Project [![Henry's Fashion House](fashion-ezgif.com-video-to-gif-converter.gif)](https://henrysfashionhouse.netlify.app/)
 
-- 🤝 My Project [Captain's Kitchen](https://captainskitchen.netlify.app/)
+- 🤝 My Project [![Captain's Kitchen](kitchen-ezgif.com-video-to-gif-converter.gif)](https://captainskitchen.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Node, OOP, MongoDB, Express**
 
