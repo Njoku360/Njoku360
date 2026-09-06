@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Njoku Francis</h1>
+<img width="480" height="270" alt="Qr_code7s-ezgif com-effects" src="https://github.com/user-attachments/assets/f232adea-413b-4629-9b76-bc9e8e4854ce" /><h1 align="center">Hi 👋, I'm Njoku Francis</h1>
 <h3 align="center">A passionate Full-stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njoku360&label=Profile%20views&color=0e75b6&style=flat" alt="njoku360" /> </p>
@@ -6,10 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njoku360" alt="njoku360" /></a> </p>
 
 <p align="left"> <a href="https://x.com/Francisdev10" target="blank"><img src="https://img.shields.io/twitter/follow/@francisdev10?logo=twitter&style=for-the-badge" alt="@francisdev10" /></a> </p>
+- 🔭 My Project [![AI Chat Bot](Qr_code7s-ezgif.com-effects.gif)](https://qr-code-generator-website-vqof.onrender.com/)
 
 - 🔭 My Project [![AI Chat Bot](ai-ezgif.com-video-to-gif-converter.gif)](https://ai-chat-websiteapp.netlify.app/)
 
-- 🌱 My Project [![Portfolio Website](ezgif.com-video-to-gif-converter.gif)](https://franciswebsiteportfolio.netlify.app)
+- 🌱 My Project [![Portfolio Website](ezgif.com-video-to-gif-converter.gif)](https://franciswebsiteportfolio.netlify.app/)
 
 - 👯 My Project [![Henry's Fashion House](fashion-ezgif.com-video-to-gif-converter.gif)](https://henrysfashionhouse.netlify.app/)
 
