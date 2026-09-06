@@ -9,7 +9,7 @@
 
 <h2 align="center">My Projects</h2>
 
-- 📱 My Project [![QR Code](qr-code-ezgif.com-video-to-gif-converter.gif)](https://qr-code-generator-website-vqof.onrender.com/)
+- 📱 My Project [![QR Code](Qr_code7s-ezgif.com-effects.gif)](https://qr-code-generator-website-vqof.onrender.com/)
 
 - 🔭 My Project [![AI Chat Bot](ai-ezgif.com-video-to-gif-converter.gif)](https://ai-chat-websiteapp.netlify.app/)
 
