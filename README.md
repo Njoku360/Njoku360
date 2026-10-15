@@ -9,6 +9,8 @@
 
 <h2 align="center">My Projects</h2>
 
+- 🥗 My Project [![Recipe Manager](https://raw.githubusercontent.com/Njoku360/Njoku360/main/QV_1792072395462.gif)](https://recipe-manager-website.onrender.com/)
+
 - 📱 My Project [![QR Code](Qr_code7s-ezgif.com-effects.gif)](https://qr-code-generator-website-vqof.onrender.com/)
 
 - 🔭 My Project [![AI Chat Bot](ai-ezgif.com-video-to-gif-converter.gif)](https://ai-chat-websiteapp.netlify.app/)
@@ -19,20 +21,18 @@
 
 - 🤝 My Project [![Captain's Kitchen](kitchen-ezgif.com-video-to-gif-converter.gif)](https://captainskitchen.netlify.app/)
 
-- 🥗 My Project [![Recipe Manager](https://raw.githubusercontent.com/Njoku360/Njoku360/main/QV_1792072395462.gif)](https://recipe-manager-website.onrender.com/)
-
 - 💬 Ask me about **HTML, CSS, Javascript, React, Node, OOP, MongoDB, Express**
 
 - 📫 How to reach me **frannjoku200@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/Francisdev10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.sv[...]" a[...]
-<a href="https://linkedin.com/in/njoku-francis-3570b5312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/i[...]
+<a href="https://x.com/Francisdev10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" /></a>
+<a href="https://linkedin.com/in/njoku-francis-3570b5312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.sv[...]
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" /> </a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /> </a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" /> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=njoku360&show_icons=true&locale=en&layout=compact" alt="njoku360" /></p>
 
